@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>342265508950-uregu9i4bhjg175shm8ao2067nhsshii.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.342265508950-uregu9i4bhjg175shm8ao2067nhsshii</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCTHP4UzwMTQe4eI6O0qJjs7B6Ndh9Ldgg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>342265508950</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>poc.ionic.fcm</string>
+	<key>PROJECT_ID</key>
+	<string>pocionic5fcm</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pocionic5fcm.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:342265508950:ios:100bc9f414775413c3f7f7</string>
+	<key>DATABASE_URL</key>
+	<string>https://pocionic5fcm.firebaseio.com</string>
+</dict>
+</plist>

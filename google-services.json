@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "342265508950",
+    "firebase_url": "https://pocionic5fcm.firebaseio.com",
+    "project_id": "pocionic5fcm",
+    "storage_bucket": "pocionic5fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342265508950:android:9c8fd195e4de5236c3f7f7",
+        "android_client_info": {
+          "package_name": "poc.ionic.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342265508950-v3k23i8qrsl294jr49l2dh12f8dtjlra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpWz3KhIKZMDxvaimPLNAXESC_gdAl5GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342265508950-v3k23i8qrsl294jr49l2dh12f8dtjlra.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342265508950-uregu9i4bhjg175shm8ao2067nhsshii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "poc.ionic.fcm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

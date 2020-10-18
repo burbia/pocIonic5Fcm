@@ -1,0 +1,7 @@
+{
+  "name": "pocIonic5Fcm",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
